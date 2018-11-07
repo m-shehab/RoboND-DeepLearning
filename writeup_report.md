@@ -187,7 +187,7 @@ weight = 0.7329670329670329
 ```
 The IOU is the average between IOU1 and IOU3 (i.e. execlude testcases where there is no target in the scene) 
 ```
-final_IOU = 0.580408548065
+final_IoU = 0.580408548065
 ```
 Then the final grade score calculated as: final_score = final_IoU * weight
 ```
